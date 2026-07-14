@@ -1,1 +1,2 @@
 # flyrank-capstone
+My project goal is that within my internship with the Flyrank Ai, i should have gain enough experience to improve my skills and seek for jobs and become an angency whle also exploring and gain more knowledge along the journey
